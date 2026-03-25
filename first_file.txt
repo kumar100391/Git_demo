@@ -1,2 +1,3 @@
 Hello git !!!
-
+Please enter the vaild input
+with in the range(100-500)
